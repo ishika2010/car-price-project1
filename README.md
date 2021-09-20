@@ -7,9 +7,9 @@ Website Link- https://car-price-project1.herokuapp.com/
 Testing Values:
 
 Tech Stack:
-Front-End: HTML, CSS, Bootstrap
-Back-End: Flask
-IDE: Jupyter notebook, Pycharm
+* Front-End: HTML, CSS, Bootstrap
+* Back-End: Flask
+* IDE: Jupyter notebook, Pycharm
 
 How to run this app:
 First create a virtual environment by using this command:
