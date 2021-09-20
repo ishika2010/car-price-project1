@@ -2,7 +2,7 @@
 
 Using a history of previously used cars selling data and using machine learning techniques such as Supervised Learning can predict a fair price of the car, here I also used machine learning algorithms such as Random Forest and Extra Tree Regression along with powerful python library Scikit-Learn to predict the selling price.
 
-Website Link- https://car-price-project1.herokuapp.com/
+**Website Link- https://car-price-project1.herokuapp.com/**
 
 Testing Values:
 
@@ -22,22 +22,22 @@ How to run this app:
 * python app.py
 
 Workflow:
-* Data Collection:
+Data Collection:
 Car Data from Kaggle
 
-* Data Preprocessing:
+Data Preprocessing:
 * Missing values were handled.
 * Drop unnecessary columns.
 * Converted categorical variable into indicator variables.
 
-* Data Visualization:
+Data Visualization:
 * Visualize final dataset using seaborn library.
 * Made pairplots and heatmap.
 
-* Model Creation:
+Model Creation:
 * Different types of models were tried like linear regression, random forest.
 * Out of these random forest is chosen.
 * The conclusion were made using classification metrics.
 
-* Model Deployment:
+Model Deployment:
 The model is deployed using Flask at Heroku server.
