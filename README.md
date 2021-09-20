@@ -22,6 +22,7 @@ Using a history of previously used cars selling data and using machine learning 
 * python app.py
 
 **Workflow:**
+
 **Data Collection:**
 Car Data from Kaggle
 
