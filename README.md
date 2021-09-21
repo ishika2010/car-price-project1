@@ -5,7 +5,9 @@ Using a history of previously used cars selling data and using machine learning 
 **Website Link- https://car-price-project1.herokuapp.com/**
 
 **Testing Values:**
+
 ![WhatsApp Image 2021-09-21 at 10 42 56 PM](https://user-images.githubusercontent.com/69850562/134217017-480029e0-7cae-43ad-a1fe-d96693953e3d.jpeg)
+
 ![WhatsApp Image 2021-09-21 at 10 42 57 PM](https://user-images.githubusercontent.com/69850562/134217046-0eb329ab-47ad-4d59-9b27-26ba2fb0972d.jpeg)
 
 
